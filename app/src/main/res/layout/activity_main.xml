@@ -12,5 +12,14 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="WELCOME"
+        android:id="@+id/textView2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ALAN WALKER - SING ME TO SLEEP"
+        android:textSize="25dp"
+        android:id="@+id/textView"
+        android:layout_below="@+id/textView2" />
 </RelativeLayout>
